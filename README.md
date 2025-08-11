@@ -37,13 +37,21 @@ ________________________________________
 **Results**
 
 Model	RMSE	R²
+
 Linear Regression	11.22	0.8142
+
 Decision Tree	10.86	0.8258
+
 Random Forest	7.65	0.9137
+
 XGBoost	8.43	0.9000
+
 Feature Importance Analysis revealed the following as the most influential variables for AQI prediction:
+
 •	PM2.5 and PM10 were the most critical factors.
+
 •	Followed by O3, CO2, and NO2.
+
 Scatterplots of actual vs. predicted values confirmed that complex models, particularly Random Forest and XGBoost, provide accurate AQI predictions.
 ________________________________________
 **Conclusions**
