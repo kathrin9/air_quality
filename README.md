@@ -1,4 +1,5 @@
 ****Air Quality Analysis Report****
+
 ****Abstract**
 Air pollution is a major environmental and public health concern worldwide. This study analyzes air quality data from various global cities with the goal of predicting the Air Quality Index (AQI) using different machine learning algorithms. The comparison of models demonstrated that Random Forest provides the most accurate predictions of AQI.
 ________________________________________
